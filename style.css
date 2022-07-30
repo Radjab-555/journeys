@@ -1,8 +1,18 @@
 body {
     font-family: lucida;
+    position: relative;
     margin: 0;
     padding: 0;
     color: aliceblue;
+}
+
+main {
+    background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612357676_54-p-fon-dlya-prezentatsii-v-korichnevikh-tonak-69.jpg);
+    background-size: cover;
+    position: absolute;
+    height: auto;
+    width: 100%;
+    margin: 0;
 }
 
 .intro {
