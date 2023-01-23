@@ -14,7 +14,7 @@ main {
     margin: 0;
     position: absolute;
     padding: 10px;
-    background-color: blue;
+    background-color: rgb(35, 10, 10);
 }
 
 .intro {
